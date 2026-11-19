@@ -1,0 +1,8 @@
+# Directories
+/data
+
+.DS_Store
+
+*.zip
+
+
